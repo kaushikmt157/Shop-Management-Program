@@ -1,0 +1,16 @@
+Motichoor Laddu,40,160
+Besan Laddu,60,140
+Boondi Laddu,70,120
+Mawa Barfi,50,320
+Kalakand,50,340
+Kaju Katli,25,850
+Balu Shanhi,40,120
+Mathi,60,120
+Rasgulla,200,150
+Gulab Jamun,150,160
+Milk Cake,40,300
+Jalebi,20,150
+Son Papdi,24,160
+Gajar Barfi,50,380
+
+
