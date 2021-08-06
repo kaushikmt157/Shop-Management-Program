@@ -11,7 +11,7 @@ def over_write(List, Dictionary):   # an overwrite function
         elif keys == "BARFI":
             L[1][2] = str(int(L[1][2])-d['BARFI'])
         else:
-            L[2][2] = str(int(L[2][2])-d['PEDA'])
+            L[2][2] = str(int(L[2][2])-d['HDD'])
     print("\nRemaining Stock Products:\n",L)
         
     files = open("products.txt", "w")  # opens stock file (products.txt) file in write mode.
